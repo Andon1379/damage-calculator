@@ -13,34 +13,34 @@ to do:
 	
 	    account for diffrent ammunition for bow/crossbow (arrow, firework (crossbow), tipped arrows)
 	    
-account for charge of strike
+    account for charge of strike
 
-account if it was a crit or not
+    account if it was a crit or not
 
-account for enchantments on weapons (sharpness, smite, power)
+    account for enchantments on weapons (sharpness, smite, power)
 
-    account for type of defender (zombie, enderman, dragon, player) 
+        account for type of defender (zombie, enderman, dragon, player) 
     
-    account for fire damage applied over time by fire aspect and flame
+        account for fire damage applied over time by fire aspect and flame
     
-account for armor points that the defender has
+    account for armor points that the defender has
 
-    account for enchantments on armor that the defender has (proc, fire proc, proj. proc)
+        account for enchantments on armor that the defender has (proc, fire proc, proj. proc)
     
-    account for armor toughness on defender
+        account for armor toughness on defender
     
-account for potion effects (strength, weakness) 
+    account for potion effects (strength, weakness) 
 
 plan for orginization: 
 
-folder for dictionaries 
+    folder for dictionaries 
 
-   dictionary for armor
+       dictionary for armor
    
-   dictionary for defending entities
+      dictionary for defending entities
    
-   dictionary for attacking entities
+       dictionary for attacking entities
    
-   dictionary for weapons
+       dictionary for weapons
    
-   dictionary for enchantments 
+       dictionary for enchantments 
