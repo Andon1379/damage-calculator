@@ -22,7 +22,7 @@ plan for orginization:
 
     folder for dictionaries 
        dictionary for armo
-      dictionary for defending entities
+       dictionary for defending entities
        dictionary for attacking entities
        dictionary for weapons
        dictionary for enchantments 
