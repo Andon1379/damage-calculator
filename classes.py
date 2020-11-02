@@ -18,3 +18,6 @@ class defender: # add armor enchantments
 # error classes
 class invalidArmorType(Exception):
     pass
+
+class invalidWeaponType(Exception):
+    pass
